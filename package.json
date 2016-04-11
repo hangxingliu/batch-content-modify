@@ -1,0 +1,26 @@
+{
+	"name": "batch-content-modify",
+	"version": "1.0.0",
+	"description": "批量文件内容修改脚本",
+	"main": "gulpfile.js",
+	"dependencies": {
+		"through2": "*",
+		"gulp": "*",
+		"gulp-util": "*",
+		"gulp-clean": "*",
+	},
+	"scripts": {
+		"test": "gulp"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://git.oschina.net/voyageliu/batch-content-modify.git"
+	},
+	"keywords": [
+		"batch",
+		"content",
+		"modify"
+  	],
+	"author": "LiuYue",
+	"license": "MIT"
+}
