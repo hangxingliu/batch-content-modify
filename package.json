@@ -1,6 +1,6 @@
 {
 	"name": "batch-content-modify",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "批量文件内容修改脚本",
 	"main": "gulpfile.js",
 	"dependencies": {
