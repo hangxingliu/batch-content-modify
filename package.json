@@ -7,7 +7,7 @@
 		"through2": "*",
 		"gulp": "*",
 		"gulp-util": "*",
-		"gulp-clean": "*",
+		"gulp-clean": "*"
 	},
 	"scripts": {
 		"test": "gulp"
